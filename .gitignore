@@ -4,3 +4,10 @@
 
 /CppProperties.json
 /.vs
+*.vsidx
+/Project1/.vs
+/Project1/Project1
+/Project1/x64
+*.vcxproj
+*.filters
+*.user
