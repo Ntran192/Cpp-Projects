@@ -2,12 +2,56 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/CppProperties.json
-/.vs
-*.vsidx
-/Project1/.vs
-/Project1/Project1
-/Project1/x64
-*.vcxproj
-*.filters
+# Build artifacts
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.log
+*.exp
+
+# Precompiled Headers
+*.pch
+*.gch
+
+# VS-specific folders
+.vscode/
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Temporary files
+*.tmp
+*.tlog
+*.log
+
+# User-specific files
 *.user
+*.suo
+*.ncb
+*.opendb
+*.VC.db
+
+# Backup and auto-generated files
+*.bak
+*.cache
+*.ilk
+
+# Package and build outputs
+build/
+*.ipch
+*.aps
+*.idb
+*.sdf
+
+# Configuration files (optional: exclude if you don't want to share them)
+*.vcxproj.user
+*.vcxproj.filters
+
+#Others
+/CppProperties.json
