@@ -49,7 +49,7 @@ build/
 *.idb
 *.sdf
 
-# Configuration files (optional: exclude if you don't want to share them)
+# Configuration files
 *.vcxproj.user
 *.vcxproj.filters
 
