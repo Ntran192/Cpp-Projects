@@ -15,7 +15,7 @@ I created this repository to document my journey of relearning C++ and regaining
 
 ## Content
 In this Repository, you will find multiple folders, One named "Textbook Exercises" and another named "Projects:"
-- Textbook Exercises: This folder contains my original solutions to the programming exercises from the textbook *C++ Programming: Program Design Including Data Structures Eighth Edition* by D.S. Malik. (The questions themselves are **not included** to comply with copyright laws.)
+- Textbook Exercises: This folder contains my **original** solutions to the programming exercises from the textbook *C++ Programming: Program Design Including Data Structures Eighth Edition* by D.S. Malik. (The questions themselves are **not included** to comply with copyright laws.)
 - Projects: This folder contains my personal projects to practice and further develop my C++ skills.
 
 ## Citations
