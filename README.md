@@ -1,4 +1,6 @@
-# C++ Projects and Learning
+# Welcome to my C++ Practice Repository!!!
+Hello! My name is Nathan Tran, and this repository is dedicated to my journey of relearning and practicing C++.
+
 ## About Me
 I’m a Computer Science graduate with a minor in Cybersecurity, and I’ve always aspired to become a Software Developer or Engineer. Recently, I’ve found myself drawn to the field of cybersecurity, sparked by a newfound interest in the growing need for security in today’s tech-driven world. To support this career shift, I earned the CompTIA Security+ certification and have been diving deeper into this exciting and ever-evolving space.
 
