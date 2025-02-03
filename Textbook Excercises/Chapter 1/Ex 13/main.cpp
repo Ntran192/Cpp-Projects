@@ -1,8 +1,9 @@
-// Ex 13.cpp
-// This is my original solution for ex 13 ch 1
+// Nathan Tran
+// Ch 1 Ex 13 Solution
+// Last Updated: 2/2/25
 
 #include <iostream> /* cin, cout */
-#include <iomanip>  /* setw(), setprecision(), left, right */
+#include <iomanip>  /* setw(), fixed, setprecision(), left, right */
 
 int main()
 {
@@ -44,7 +45,7 @@ int main()
 
     /* output */
     // display the result with 2 decimal points if needed.
-    std::cout << "Average Result: " << std::setprecision(2) << average;
+    std::cout << "Average Result: " << std::fixed << std::setprecision(2) << average;
 
     return 0;
 }
